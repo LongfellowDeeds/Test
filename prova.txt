@@ -2,4 +2,8 @@ continua
 
 dajeee
 
+<<<<<<< HEAD
 developpiamo
+=======
+profile
+>>>>>>> origin/Profile

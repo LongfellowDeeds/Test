@@ -5,3 +5,9 @@ ancora
 new feature
 
 continua il deploy
+
+<<<<<<< HEAD
+dev
+=======
+profile
+>>>>>>> origin/Profile
